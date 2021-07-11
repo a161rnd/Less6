@@ -7,6 +7,7 @@ class Box6 {
     double widht;
     double height;
     double depth;
+    int pop; // удалить
 
     // рассчитать и возвратить объем
     double volumeBox6() {
